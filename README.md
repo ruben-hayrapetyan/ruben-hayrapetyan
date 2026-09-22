@@ -1,4 +1,4 @@
-<img src="assets/gif_banner.gif" alt="ruben-hayrapetyan">
+<img src="https://raw.githubusercontent.com/ruben-hayrapetyan/ruben-hayrapetyan/main/assets/gif_banner.gif" alt="ruben-hayrapetyan">
 
 building small, focused tools — terminal tooling, native apps, automation.
 
