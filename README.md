@@ -1,6 +1,4 @@
-<img src="assets/mark.svg" width="20" height="24">
-
-# ruben-hayrapetyan
+<img src="assets/gif_banner.gif" alt="ruben-hayrapetyan">
 
 building small, focused tools — terminal tooling, native apps, automation.
 
